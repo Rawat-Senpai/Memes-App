@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">meme</string>
+    <string name="app_name">Meme Mania</string>
+    <string name="splash_text">Get    your    \ndaily    dose    of    <font color ='#1CE59D'>fun</font></string>
 </resources>

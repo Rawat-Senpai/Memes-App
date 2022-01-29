@@ -3,7 +3,9 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/</item>
         <item>@font/aldrich</item>
+        <item>@font/arvo</item>
         <item>@font/atomic_age</item>
         <item>@font/butcherman</item>
+        <item>@font/chonburi</item>
     </array>
 </resources>

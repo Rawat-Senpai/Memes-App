@@ -3,12 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/backgroud_splash.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/gradient_baground.xml" value="0.13518518518518519" />
         <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/font/.xml" value="0.26666666666666666" />
-        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/layout-v21/activity_slpash_screen.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Shobhit/AndroidStudioProjects/kotlin_meme/app/src/main/res/layout/activity_slpash_screen.xml" value="0.2" />
       </map>
     </option>
